@@ -7,7 +7,7 @@
 - ⚡ 2021 Goals: Learn new technologies and to contribute projects.
 - 🌱 Fun fact: I love to Play sports and travel
 
-### Connect with me:
+### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 [<img align="left" alt="Baasith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Baasith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

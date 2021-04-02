@@ -1,6 +1,6 @@
 ## Hi there, I'm Abdul Baasith 👋
 
-### I'm a Tech Enthusiast , Youtuber and a Developer
+### I'm a Tech Enthusiast , Traveller and a Developer
 
 - 🎓 I’m currently undertaking my Bachelor's Degree in Sotware Engineering at Informatics Institute of Technology | University of Westminster UK.
 - 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer.

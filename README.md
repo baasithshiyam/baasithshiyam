@@ -2,7 +2,7 @@
 
 ### I'm a Tech Enthusiast , Traveller and a Developer
 
-- 🎓 I’m currently undertaking my Bachelor's Degree in Sotware Engineering at Informatics Institute of Technology | University of Westminster UK.
+- 🎓 BSc Computer Scientist | University of Westmister UK
 - 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer.
 - ⚡ 2021 Goals: Learn new technologies and to contribute projects.
 - 🌱 Fun fact: I love to Play sports and travel

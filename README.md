@@ -3,8 +3,8 @@
 ### I'm a Tech Enthusiast , Traveller and a Developer
 
 - 🎓 BSc Computer Scientist | University of Westmister UK
-- 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer.
-- ⚡ 2021 Goals: Learn new technologies and to contribute projects.
+- 👨🏼‍💻 Talk to me About #machineLearning #dataScience #Backend #FullStack 
+- ⚡ Goals: Learn new technologies and to contribute projects Work independantly
 - 🌱 Fun fact: I love to Play sports and travel
 
 ### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />

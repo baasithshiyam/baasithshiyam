@@ -2,7 +2,7 @@
 
 ### I'm a Tech Enthusiast , Traveller and a Developer
 
-- 🎓 BSc Computer Scientist | University of Westmister UK
+- 🎓 BSc (Hons) Computer Science - First Class | University of Westmister UK
 - 👨🏼‍💻 Talk to me About #machineLearning #dataScience #Backend #FullStack 
 - ⚡ Goals: Learn new technologies and to contribute projects Work independantly
 - 🌱 Fun fact: I love to Play sports and travel

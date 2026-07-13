@@ -40,6 +40,14 @@ I am a **Software Engineer II @ Noon** and a First Class Computer Science gradua
 ### ✍️ Latest Blog Posts
 * [Check out my Medium Blog for ML & Web Dev insights](https://medium.com/@your-profile)
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baasithshiyam/baasithshiyam/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulbaasith&color=blueviolet" alt="Profile Views" />
 </p>

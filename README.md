@@ -37,6 +37,42 @@ I am a **Software Engineer II @ Noon** and a First Class Computer Science gradua
 * ⚽ **Sports Enthusiast** - Always up for a game.
 ---
 
+<a id="readme-penalty-challenge"></a>
+
+### ⚽ README Penalty Challenge
+
+**How to play:** Pick a shot direction and see if you beat the keeper.
+
+<p align="center">
+  <a href="#shot-left"><img src="https://img.shields.io/badge/SHOOT-LEFT-2ecc71?style=for-the-badge" alt="Shoot left" /></a>
+  <a href="#shot-center"><img src="https://img.shields.io/badge/SHOOT-CENTER-f1c40f?style=for-the-badge" alt="Shoot center" /></a>
+  <a href="#shot-right"><img src="https://img.shields.io/badge/SHOOT-RIGHT-3498db?style=for-the-badge" alt="Shoot right" /></a>
+</p>
+
+<p align="center">
+  🧤🥅🧤<br/>
+  🟩🟩🟩<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;⚽
+</p>
+
+<a id="shot-left"></a>
+
+#### 🥅 Shot Left
+You send the ball flying into the bottom-left corner. **GOAL!** The keeper guessed the wrong way.  
+[🔄 Play again](#readme-penalty-challenge)
+
+<a id="shot-center"></a>
+
+#### 🧤 Shot Center
+The keeper stays in the middle and blocks it with both hands. **SAVED!**  
+[🔄 Try again](#readme-penalty-challenge)
+
+<a id="shot-right"></a>
+
+#### 🚀 Shot Right
+You strike it with power, but it smashes against the post. **SO CLOSE!**  
+[🔄 Take another shot](#readme-penalty-challenge)
+
 ### ✍️ Latest Blog Posts
 * [Check out my Medium Blog for ML & Web Dev insights](https://medium.com/@your-profile)
 

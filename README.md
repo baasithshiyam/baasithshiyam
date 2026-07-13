@@ -42,6 +42,9 @@ I am a **Software Engineer II @ Noon** and a First Class Computer Science gradua
 
 ---
 
+### 🎮 Play a Game
+* [Play Tic-Tac-Toe](https://baasithshiyam.github.io/baasithshiyam/game/)
+
 ### 🐍 Contribution Snake
 
 <p align="center">

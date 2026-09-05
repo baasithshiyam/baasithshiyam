@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer II @ Noon** and a First Class Computer Science graduate from the **University of Westminster**. I thrive at the intersection of robust backend architecture and intelligent data-driven solutions.
+I am a **Software Engineer III @ Noon** and a First Class Computer Science graduate from the **University of Westminster**. I thrive at the intersection of robust backend architecture and intelligent data-driven solutions.
 
 - 🔭 **Current Focus:** Scaling e-commerce microservices and exploring Large Language Models.
 - 🎓 **Academic:** BSc (Hons) Computer Science - First Class Honours.
